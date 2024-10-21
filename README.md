@@ -4,9 +4,9 @@
 
 The Mortgage Calculator is an interactive web application designed to assist users in determining their monthly mortgage payments. Whether you're a first-time homebuyer, refinancing an existing mortgage, or just curious about how different variables affect your monthly payments, this calculator provides a straightforward and visually appealing way to estimate your mortgage costs.
 
-![Mortgage Calculator Image 1](src/assets/images/01.png)
-![Mortgage Calculator Image 2](src/assets/02.png)
-![Mortgage Calculator Image 3](src/assets/images/03.png)
+![Mortgage Calculator Image 1](assets/images/01.png)
+![Mortgage Calculator Image 2](assets//images/02.png)
+![Mortgage Calculator Image 3](assets/images/03.png)
 
 ## Purpose
 
